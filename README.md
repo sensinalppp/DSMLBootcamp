@@ -2,7 +2,9 @@
 
 2021 1. DÖNEM KAYITLARI KAPANMIŞTIR.
 
-2021 1. DÖNEM EK KONTENJAN İÇİN YA DA 2. DÖNEM İÇİN KAYIT BIRAKABİLİRSİNİZ.
+2021 2. DÖNEMİ (MAYIS) KAYITLARI KAPANMIŞTIR.
+
+Ek kontenjan ya da 3. Dönem için kaydınızı bırakabilirsiniz.
 
 
 [Başvuru formunu doldur](https://docs.google.com/forms/d/e/1FAIpQLScXBuvPeOnoXrqZ8UpvmCrU4AkkVS73EZQsKUJ6oX5EBuZx-w/viewform?usp=sf_link)
@@ -25,7 +27,7 @@ Bireysel: 7950 TL + KDV
 
 Kurumsal: 10625 TL + KDV
 
-Öğrenci: 4675 TL + KDV
+Öğrenci: 4950 TL + KDV
 
 
 # Neden Bu Program?
@@ -72,7 +74,7 @@ Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler ment
 - Birliktelik Analizi ve Tavsiye Sistemleri
 - RFM Analizi ile Müşteri Segmentasyonu
 - Ev fiyat tahmin modeli
-- Makine Öğrenmesi ile Şeker Hastalığı Tahmini
+- Makine Öğrenmesi 
 - Kurumsal Müşteri Terk Modellemesi
 - Kredi Risk Modellemesi
 - Anasayfa İçerik Stratejisi Belirleme
